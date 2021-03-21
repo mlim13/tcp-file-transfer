@@ -1,0 +1,3 @@
+I am just a dummy text file to try sending from the client to the server.
+
+Maybe I should write a haiku.
